@@ -21,7 +21,7 @@ Keep checking back for more updates. And if you have questions, reach out to the
 *Data visualization developer, Enterprise & investigations*
 
 - Shirsho Dasgupta ([@shirshodg](https://github.com/orgs/mcclatchyai/people/shirshodg))  
-*Data & invesigative reporter, Miami Herald; Fall 2024 McClatchy AI news fellow*
+*Data & invesigative reporter, Miami Herald (Washington, DC Bureau); Fall 2024 McClatchy AI news fellow*
 
 - Dan Hunt ([@thedanielhunt](https://github.com/thedanielhunt))  
 *Local news editor, Sacramento Bee; Fall 2024 McClatchy AI news fellow*
