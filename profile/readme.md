@@ -8,19 +8,22 @@ Keep checking back for more updates. And if you have questions, reach out to the
 
 ## Staff, collaborators & contributors on GitHub
 
-- Tyler Dukes ([@mtdukes](https://github.com/orgs/mcclatchyai/people/mtdukes))  
+- Tyler Dukes ([@mtdukes](https://github.com/mtdukes))  
 *Lead editor, AI innovation in jouralism*
 
-- Alex Devoid ([@Alex-Devoid](https://github.com/orgs/mcclatchyai/people/Alex-Devoid))  
+- Alex Devoid ([@Alex-Devoid](https://github.com/Alex-Devoid))  
 *AI innovation journalist/developer*
 
-- David Newcomb ([@dmnewcomb](https://github.com/orgs/mcclatchyai/people/dmnewcomb))  
+- Aïcha Camara ([@necabotheking](https://github.com/necabotheking))  
+*AI innovation journalist/developer*
+
+- David Newcomb ([@dmnewcomb](https://github.com/dmnewcomb))  
 *Director, Editorial experiences*
 
-- Susan Merriam ([@semerriam](https://github.com/orgs/mcclatchyai/people/semerriam))  
+- Susan Merriam ([@semerriam](https://github.com/semerriam))  
 *Data visualization developer, Enterprise & investigations*
 
-- Shirsho Dasgupta ([@shirshodg](https://github.com/orgs/mcclatchyai/people/shirshodg))  
+- Shirsho Dasgupta ([@shirshodg](https://github.com/shirshodg))  
 *Data & invesigative reporter, Miami Herald (Washington, DC Bureau); Fall 2024 McClatchy AI news fellow*
 
 - Dan Hunt ([@thedanielhunt](https://github.com/thedanielhunt))  
