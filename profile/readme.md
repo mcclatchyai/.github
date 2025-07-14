@@ -17,6 +17,9 @@ Keep checking back for more updates. And if you have questions, reach out to the
 - Aïcha Camara ([@necabotheking](https://github.com/necabotheking))  
 *AI innovation journalist/developer*
 
+- Robin Johnston ([@robin-e-johnston](https://github.com/robin-e-johnston))
+*AI innovation workflow editor*
+
 - David Newcomb ([@dmnewcomb](https://github.com/dmnewcomb))  
 *Director, Editorial experiences*
 
