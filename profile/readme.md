@@ -20,11 +20,11 @@ Keep checking back for more updates. And if you have questions, reach out to the
 - Robin Johnston ([@robin-e-johnston](https://github.com/robin-e-johnston))  
 *AI innovation workflow editor*
 
+- Susan Merriam ([@semerriam](https://github.com/semerriam))  
+*Journalist/developer, data & visual storytelling*
+
 - David Newcomb ([@dmnewcomb](https://github.com/dmnewcomb))  
 *Director, Editorial experiences*
-
-- Susan Merriam ([@semerriam](https://github.com/semerriam))  
-*Data visualization developer, Enterprise & investigations*
 
 - Shirsho Dasgupta ([@shirshodg](https://github.com/shirshodg))  
 *Data & invesigative reporter, Miami Herald (Washington, DC Bureau); Fall 2024 McClatchy AI news fellow*
